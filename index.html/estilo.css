@@ -1,0 +1,89 @@
+.img3{
+    width: 550px;
+    height: 500px;
+}
+.img {
+    width: 250px;
+    height: 250px;
+}
+.img2 {
+    width: 540px; 
+    height: 590px;
+}
+table{
+    border-color: black;
+}
+th{
+    background-color: black;
+    color: white;
+}
+.bt1{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 4px 2px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+.bt2{
+background-color: blue;
+color: white;
+border: none;
+padding: 15px 35px;
+font-size: 16px;
+cursor: pointer;
+margin: 4px 2px;
+display: inline-block;
+text-align: center;
+text-decoration: none;
+}
+.bt3{
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 15px 35px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 4px 2px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+.bt4{
+    background-color: brown;
+    color: black;
+    border: none;
+    padding: 15px 35px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 4px 2px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+.bt5{
+    background-color: cadetblue;
+    color: black;
+    border: none;
+    padding: 15px 35px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 4px 2px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+.pepe{
+    text-size-adjust: 20px;
+}
+.imgw{
+    height: 250px;
+    width: 300px;
+}
+body{
+    background-color: grey;
+}
